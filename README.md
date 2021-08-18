@@ -7,3 +7,6 @@ Talking about the features of this software,
 1. A user can create an account by providing an initial amount to deposit.
 2. Then the user can also deposit and withdraw money just by providing the user account name ,pin number and entering the amount.
 3. Also, the user can check for the customers and their balance. This simple console-based system provides the simplest management of bank account and transaction.
+
+![Screenshot (439)](https://user-images.githubusercontent.com/66516356/129910214-72aec54c-2f98-4e9e-aaf1-dffa61a37a7e.png)
+
